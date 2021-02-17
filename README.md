@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexander-kudin
-- 👀 I’m interested in front-end core
+- 👀 I’m interested in the front-end core
 - 🌱 I’m currently learning ASP.NET, Vue.js, React.js
 - 💞️ I’m looking to connect with new professionals
 - 📫 I can be reached via alexanderkudin@icloud.com
