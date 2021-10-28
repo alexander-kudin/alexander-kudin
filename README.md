@@ -1,16 +1,10 @@
-# Hi there, I'm Alexander - [alexanderkudin.ru][website] 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm [Alexander Kudin](http://alexanderkudin.ru)!
 
 ## I build things for the web!!
 
 - 👀 I’m interested in the front-end core
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate with other content creators
-
-### Connect with me:
-
-[<img align="left" alt="alexanderkudin.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="alexanderkudin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="imalexanderkudin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -45,6 +39,13 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+
+
+**[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
 
 [website]: http://alexanderkudin.ru
 [instagram]: https://www.instagram.com/imalexanderkudin/
