@@ -4,14 +4,14 @@ I'm studying Computer Programming and Analysis at George Brown College in Toront
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
+Currently improving my full-stack skills: NextJS, React Native, and Spring Boot.<br />
 I'm also building MERN applications
 
 ### Recent GitHub Activity ⚡
 <!-- POST-LIST:START -->
-- 📚 Simple React book library application in [alexander-kudin/react-library](https://github.com/alexander-kudin/react-library)
-- 👟 Simple React sneakers store application in [alexander-kudin/react-sneakers](https://github.com/alexander-kudin/react-sneakers)
-- «Memories» MERN application in [alexander-kudin/mern-memories](https://github.com/alexander-kudin/mern-memories)
+- 🇨🇦 «Hi from Canada» mobile app [alexander-kudin/react-library](https://github.com/alexander-kudin/hi-from-canada-client)
+- 🧑‍🎨 ReactJS web app for a painter portfolio [alexander-kudin/react-sneakers](https://github.com/alexander-kudin/react-julia-kudina)
+- 💭 «Memories» MERN application in [alexander-kudin/mern-memories](https://github.com/alexander-kudin/mern-memories)
 <!-- POST-LIST:END -->
 
 ### Find me elsewhere 🌎
