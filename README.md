@@ -9,7 +9,7 @@ I'm also building MERN applications
 
 ### Recent GitHub Activity ⚡
 <!-- POST-LIST:START -->
-- 🇨🇦 «Hi from Canada» mobile app [alexander-kudin/hi-from-canada-client](https://github.com/alexander-kudin/hi-from-canada-client)
+- 🇨🇦 «Hi from Canada» mobile app [Tinkerwiz/hiFromCanadaClient](https://github.com/Tinkerwiz/hiFromCanadaClient)
 - 🧑‍🎨 ReactJS web app for a painter portfolio [alexander-kudin/react-julia-kudina](https://github.com/alexander-kudin/react-julia-kudina)
 - 💭 «Memories» MERN application in [alexander-kudin/mern-memories](https://github.com/alexander-kudin/mern-memories)
 <!-- POST-LIST:END -->
