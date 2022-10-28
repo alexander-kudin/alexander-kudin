@@ -5,7 +5,6 @@ I'm a software developer based in Toronto, Canada.
 ### What I'm focusing on 👨‍💻
 
 Currently improving my full-stack skills: NodeJS, ReactJS, Typescript and Spring Boot.<br />
-I'm also building MERN applications
 
 ### Recent GitHub Activity ⚡
 <!-- POST-LIST:START -->
