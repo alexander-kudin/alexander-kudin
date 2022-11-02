@@ -4,13 +4,7 @@ I'm a software developer based in Toronto, Canada.
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my full-stack skills: NodeJS, ReactJS, Typescript and Spring Boot.<br />
-
-### Recent GitHub Activity ⚡
-<!-- POST-LIST:START -->
-- 🧑‍🎨 ReactJS web app for a painter portfolio [alexander-kudin/react-julia-kudina](https://github.com/alexander-kudin/react-julia-kudina)
-- 💭 «Memories» MERN application in [alexander-kudin/mern-memories](https://github.com/alexander-kudin/mern-memories)
-<!-- POST-LIST:END -->
+Currently improving my full-stack skills: NodeJS, ReactJS, Typescript.<br />
 
 ### Find me elsewhere 🌎
 
